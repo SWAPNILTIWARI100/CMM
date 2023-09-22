@@ -52,7 +52,9 @@ height: auto;
 .np{
   width: 20%;
 }
-
+.card-group{
+  border-color: red;
+}
 
 .missioncard{
   background-color: #FFD1D1;
@@ -63,7 +65,7 @@ height: auto;
   padding-left: 80px;
   padding-right: 80px;
   padding-bottom: 20px;
-  height: 30%;
+  height: 20%;
 
 
 
@@ -71,7 +73,7 @@ height: auto;
 
 
 .misscard{
-  width: 33%;
+  width: 30%;
   height: 10%;
   padding-left: 4%;
   padding-right: 4%;
